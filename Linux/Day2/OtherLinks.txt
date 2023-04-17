@@ -1,0 +1,13 @@
+https://linuxhint.com/input-output-redirection-ubuntu/
+
+https://phoenixnap.com/kb/bash-let#:~:text=Bash%20let%20Statement%20Syntax,-The%20let%20command&text=let%20only%20works%20with%20expressions,%22%20)%20to%20avoid%20any%20errors.
+
+https://www.redhat.com/sysadmin/process-script-inputs#:~:text=%241%20%2D%20The%20first%20argument%20sent,list%20of%20all%20arguments%20provided
+
+https://medium.com/naukri-engineering/use-of-kill-kill-9-naukri-engineering-5f01c4ff31ea#:~:text=This%20signal%20cannot%20be%20handled,%2D9%E2%80%9D%20to%20send%20SIGKILL.
+
+https://stackoverflow.com/questions/66668986/how-to-assign-echo-to-a-variable-in-bash
+
+https://stackoverflow.com/questions/4277665/how-do-i-compare-two-string-variables-in-an-if-statement-in-bash
+
+https://phoenixnap.com/kb/ssh-port-forwarding

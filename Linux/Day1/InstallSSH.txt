@@ -1,0 +1,12 @@
+sudo apt-get install openssh-client openssh-server
+
+ssh-keygen -t rsa -P '' -f ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+chmod 0600 ~/.ssh/authorized_keys
+
+
+sudo service ssh restart
+
+chmod 400 ~/.ssh/Nov29Key.pem
+sudo ssh -i ~/.ssh/Nov29Key.pem ec2-user@ec2-3-88-101-249.compute-1.amazonaws.com
+sudo scp -i ~/.ssh/Nov29Key.pem test4.txt ec2-user@ec2-3-88-101-249.compute-1.amazonaws.com:~/

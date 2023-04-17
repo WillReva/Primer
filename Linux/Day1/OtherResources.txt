@@ -1,0 +1,16 @@
+//useful linux link
+https://www.freecodecamp.org/news/the-linux-commands-handbook/
+
+https://devhints.io/bash
+
+https://www.gnu.org/software/bash/manual/
+
+
+//for mysql
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+
+
+//linux book
+
+Negus, Christopher. Linux bible. Vol. 772. John Wiley & Sons, 2012.
+
