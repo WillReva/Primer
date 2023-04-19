@@ -1,0 +1,30 @@
+https://github.com/GoogleCloudPlatform/bigquery-oreilly-book
+
+Lakshmanan, Valliappa, and Jordan Tigani. Google Bigquery: the definitive guide: data warehousing, analytics, and machine learning at scale. O'Reilly Media, 2019.
+
+-------
+
+https://codingisforlosers.com/learn-bigquery-sql/
+https://blog.skyvia.com/how-to-load-data-into-bigquery/
+(Big Query Data Transfer Service vs Apache Beam with and Google Dataflor for streaming)
+
+---------------------------
+
+
+run these examples:
+
+https://github.com/GoogleCloudPlatform/bigquery-etl-dataflow-sample/
+
+
+
+https://cloud.google.com/architecture/performing-etl-from-relational-database-into-bigquery
+
+https://github.com/GoogleCloudPlatform/bigquery-etl-dataflow-sample/blob/HEAD/src/main/java/com/google/cloud/bqetl/mbdata/MusicBrainzTransforms.java
+
+-------------------------------------------------
+https://cloud.google.com/sdk/gcloud/reference/config/list
+
+
+https://cloud.google.com/dataflow/docs/quickstarts/create-pipeline-java
+
+https://cloud.google.com/dataflow/docs/tutorials/beam-samples
