@@ -8,6 +8,11 @@ https://codingisforlosers.com/learn-bigquery-sql/
 https://blog.skyvia.com/how-to-load-data-into-bigquery/
 (Big Query Data Transfer Service vs Apache Beam with and Google Dataflor for streaming)
 
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction#sql
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax
+
 ---------------------------
 
 
