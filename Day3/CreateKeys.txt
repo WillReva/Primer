@@ -1,0 +1,15 @@
+https://cloud.google.com/iam/docs/keys-create-delete
+
+1. select project 
+
+https://console.cloud.google.com/iam-admin/serviceaccounts?walkthrough_id=iam--create-service-account-keys&start_index=1&_ga=2.254126088.1624731739.1681741048-1528506901.1681239104&_gac=1.247146800.1681742263.EAIaIQobChMIxtb4gZKx_gIVpffjBx2VCQECEAAYASAAEgKcxfD_BwE#step_index=1
+
+2. create service account
+
+3. create and download key
+
+4. GOOGLE_APPLICATION_CREDENTIALS is key downloaded
+
+
+
+https://cloud.google.com/docs/authentication/provide-credentials-adc#local-key
