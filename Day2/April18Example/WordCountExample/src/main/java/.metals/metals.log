@@ -1,0 +1,21 @@
+2023.04.20 12:32:16 INFO  Started: Metals version 0.11.11 in workspace 'C:\Users\William Terry\Desktop\Primer\Day2\April18Example\WordCountExample\src\main\java' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/William%20Terry/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.20 12:32:24 INFO  time: initialize in 7.62s
+2023.04.20 12:32:26 WARN  Build server is not auto-connectable.
+2023.04.20 12:32:26 WARN  no build tool detected in workspace 'C:\Users\William Terry\Desktop\Primer\Day2\April18Example\WordCountExample\src\main\java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.20 12:32:26 WARN  no build target for: C:\Users\William Terry\Desktop\Primer\Day2\April18Example\WordCountExample\src\main\java\WordCount.java
+Apr 20, 2023 12:32:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2023.04.20 12:32:29 WARN  Running javac-semanticdb failed for file:///C:/Users/William%20Terry/Desktop/Primer/Day2/April18Example/WordCountExample/src/main/java/WordCount.java. Output:
+C:\Users\William Terry\Desktop\Primer\Day2\April18Example\WordCountExample\src\main\java\WordCount.java:1: error: semanticdb-javac: unknown flag 'Terry\Desktop\Primer\Day2\April18Example\WordCountExample\src\main\java'
+import java.util.Arrays;
+^
+1 error
+2023.04.20 12:50:42 INFO  Shutting down server
+2023.04.20 12:50:42 INFO  shutting down Metals
+2023.04.20 12:50:42 INFO  Exiting server
