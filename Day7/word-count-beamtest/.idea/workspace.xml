@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="935ba2df-a5a2-4d07-acd5-e1f487b36d2a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2M9ctkryFVk7gJxTSGDAISFQcHT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.BigQueryTornadoes2">
+    <configuration name="BigQueryTornadoes2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="GOOGLE_APPLICATION_CREDENTIALS" value="C:\Users\William Terry\Downloads\fair-catcher-384714-22613848fa1b.json" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="org.apache.beam.examples.cookbook.BigQueryTornadoes2" />
+      <module name="word-count-beamtest" />
+      <option name="PROGRAM_PARAMETERS" value="--tempLocation=gs://dataflow-apache-quickstart_fair-catcher-384714 --project=fair-catcher-384714" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.beam.examples.cookbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimalWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.beam.examples.MinimalWordCount" />
+      <module name="word-count-beamtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.beam.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowedWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.beam.examples.WindowedWordCount" />
+      <module name="word-count-beamtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.beam.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.beam.examples.WordCount" />
+      <module name="word-count-beamtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.beam.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BigQueryTornadoes2" />
+      <item itemvalue="Application.MinimalWordCount" />
+      <item itemvalue="Application.WindowedWordCount" />
+      <item itemvalue="Application.WordCount" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BigQueryTornadoes2" />
+        <item itemvalue="Application.MinimalWordCount" />
+        <item itemvalue="Application.WindowedWordCount" />
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="935ba2df-a5a2-4d07-acd5-e1f487b36d2a" name="Changes" comment="" />
+      <created>1677183459112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677183459112</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
