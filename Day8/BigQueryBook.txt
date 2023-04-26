@@ -1,0 +1,3 @@
+https://github.com/GoogleCloudPlatform/bigquery-oreilly-book
+
+Lakshmanan, Valliappa, and Jordan Tigani. Google Bigquery: the definitive guide: data warehousing, analytics, and machine learning at scale. O'Reilly Media, 2019.
